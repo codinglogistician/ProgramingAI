@@ -1,0 +1,47 @@
+<section id="op7x4g7" class="search-results__item" data-id="3820820" data-url="/o/mieszkanie-warszawa-targowek-ul-glebocka-3-pokojowe-p7x4g7" data-public-code="p7x4g7">
+<a href="/o/mieszkanie-warszawa-targowek-ul-glebocka-3-pokojowe-p7x4g7">
+  <div class="result-photo" href="/o/mieszkanie-warszawa-targowek-ul-glebocka-3-pokojowe-p7x4g7">
+    <div class="result-photo__date"><span class="flex items-center gap-x-1"><span class="flex items-center gap-x-1 px-1" aria-hidden="true"><i class="text-base inline-block"><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-calendar3" viewBox="0 0 16 16">
+  <path d="M14 0H2a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zM1 3.857C1 3.384 1.448 3 2 3h12c.552 0 1 .384 1 .857v10.286c0 .473-.448.857-1 .857H2c-.552 0-1-.384-1-.857V3.857z"></path>
+  <path d="M6.5 7a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm-9 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2zm3 0a1 1 0 1 0 0-2 1 1 0 0 0 0 2z"></path>
+</svg></i> ponad tydzień temu</span></span></div>    <div class="result-photo__photos flex gap-x-3">
+            <span class="flex items-center gap-x-1"><i aria-hidden="true" class="text-base inline-block"><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-camera-fill" viewBox="0 0 16 16">
+  <path d="M10.5 8.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0z"></path>
+  <path d="M2 4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-1.172a2 2 0 0 1-1.414-.586l-.828-.828A2 2 0 0 0 9.172 2H6.828a2 2 0 0 0-1.414.586l-.828.828A2 2 0 0 1 3.172 4H2zm.5 2a.5.5 0 1 1 0-1 .5.5 0 0 1 0 1zm9 2.5a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0z"></path>
+</svg></i> 14</span>
+    </div>
+    <div class="result-photo__visited hidden"><span class="flex items-center gap-x-1"><i class="text-xl inline-block" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-check" viewBox="0 0 16 16">
+<path d="M13.019,4.06c-0.438-0.46-1.218-0.483-1.683-0.037c-0.007,0.007-0.038,0.042-0.044,0.05l-4.168,5.31l-2.472-2.47
+	c-0.461-0.429-1.247-0.4-1.678,0.059C2.528,7.45,2.555,8.203,3.027,8.644l3.339,3.337c0.221,0.204,0.508,0.317,0.809,0.317
+	c0.329,0,0.646-0.139,0.882-0.394l4.977-6.225C13.453,5.222,13.447,4.51,13.019,4.06z"></path>
+</svg></i> obejrzane</span></div>
+            <picture>
+        <source srcset="https://s2.adresowa.pl/oi/46/76/3a4d14_745b_cover-3-pokojowe-mieszkanie-warszawa-targowek-ul-glebocka.webp 1x, https://s2.adresowa.pl/oi/46/76/3a4d14_745b_cover@2x-3-pokojowe-mieszkanie-warszawa-targowek-ul-glebocka.webp 2x" type="image/webp">
+        <source srcset="https://s2.adresowa.pl/oi/46/76/3a4d14_745b_cover-3-pokojowe-mieszkanie-warszawa-targowek-ul-glebocka.jpg" type="image/jpeg">
+        <img class="result-photo__image" loading="lazy" src="https://s2.adresowa.pl/oi/46/76/3a4d14_745b_cover-3-pokojowe-mieszkanie-warszawa-targowek-ul-glebocka.jpg" alt="Mieszkanie 3-pokojowe Warszawa Targówek, ul. Głębocka">
+      </picture>
+        </div>
+
+  <div class="result-info">
+    <div class="result-info__triangle-up"></div>
+          <div class="result-info__header">
+        <strong>Warszawa Targówek</strong>
+        <span class="result-info__address">ul. Głębocka</span>
+        <span class="result-info__property-type"><i class="text-xl inline-block"><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-building" viewBox="0 0 16 16">
+  <path fill-rule="evenodd" d="M14.763.075A.5.5 0 0 1 15 .5v15a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5V14h-1v1.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V10a.5.5 0 0 1 .342-.474L6 7.64V4.5a.5.5 0 0 1 .276-.447l8-4a.5.5 0 0 1 .487.022zM6 8.694 1 10.36V15h5V8.694zM7 15h2v-1.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 .5.5V15h2V1.309l-7 3.5V15z"></path>
+  <path d="M2 11h1v1H2v-1zm2 0h1v1H4v-1zm-2 2h1v1H2v-1zm2 0h1v1H4v-1zm4-4h1v1H8V9zm2 0h1v1h-1V9zm-2 2h1v1H8v-1zm2 0h1v1h-1v-1zm2-2h1v1h-1V9zm0 2h1v1h-1v-1zM8 7h1v1H8V7zm2 0h1v1h-1V7zm2 0h1v1h-1V7zM8 5h1v1H8V5zm2 0h1v1h-1V5zm2 0h1v1h-1V5zm0-2h1v1h-1V3z"></path>
+</svg></i><b>Mieszkanie</b> na sprzedaż      </span></div>
+    <span class="result-info__basic-container__nodesc">
+  <span class="result-info__basic"><b>3</b> pok.</span>
+  <span class="result-info__basic"><b>68</b> m²</span>        <span class="result-info__basic result-info__basic--owner">Bez pośredników</span>
+        </span>
+    
+              <div class="result-info__price-container">
+        <div class="result-info__price result-info__price--total"><i aria-hidden="true" class="text-[#c1403d] text-xl inline-block"><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="bi bi-tag-fill" viewBox="0 0 16 16">
+  <path d="M2 1a1 1 0 0 0-1 1v4.586a1 1 0 0 0 .293.707l7 7a1 1 0 0 0 1.414 0l4.586-4.586a1 1 0 0 0 0-1.414l-7-7A1 1 0 0 0 6.586 1H2zm4 3.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z"></path>
+</svg></i><span>1&nbsp;390&nbsp;000</span> zł</div>
+        <div class="result-info__price result-info__price--per-sqm"><span>20&nbsp;441</span> zł / m²</div>      </div>
+          </div>
+</a>
+</section> Napisz skrypt w Pythonie, który pobiera dane o mieszkaniach z serwisu adresowo.pl z adresów:
+ https://adresowo.pl/mieszkania/warszawa/_l1, https://adresowo.pl/mieszkania/warszawa/_l2, ..., aż do _l8.  z każdej sekcji wyciągnij poniższe pola (jeśli występują): locality,street,rooms,area,price_total_zl,price_sqm_zl,owner_type,date_posted,photo_count,url,image_url i napisz skrypt w BS i requests i skypt ma zapisać to do pliku csv
