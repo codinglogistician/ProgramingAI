@@ -26,12 +26,10 @@ Aktualnie w serwerze MCP istnieją dwa proste endpointy:
      * `area_m2` (powierzchnia w m², float),
      * `locality` (dzielnica, str),
      * `street` (ulica, str),
-     * `property_type` (typ nieruchomości, str, np. „Mieszkanie”),
-     * `city` (miasto, str),
      * `photos` (liczba zdjęć w ogłoszeniu, int),
    * przygotowywał ramkę danych (`pandas.DataFrame`) z tymi parametrami,
    * kodował zmienne kategoryczne w taki sam sposób jak w procesie trenowania,
-   * używał wytrenowanego modelu (`RandomForestRegressor` z pliku `model.pkl`) do predykcji,
+   * używał wytrenowanego modelu (`RandomForestRegressor` z pliku (z poprzedniego zadania) do predykcji,
    * zwracał przewidywaną cenę mieszkania w złotówkach (`float`).
 
 2. Upewnij się, że:
