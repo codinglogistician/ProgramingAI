@@ -1,2 +1,6 @@
-pandas
 streamlit
+joblib
+pandas
+scikit-learn
+beautifulsoup4
+requests
