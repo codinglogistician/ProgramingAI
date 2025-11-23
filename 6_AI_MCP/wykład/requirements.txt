@@ -1,0 +1,10 @@
+langchain-core
+langchain-community
+langchain
+pandas
+openai
+python-dotenv
+mcp
+langgraph
+langchain-mcp-adapters
+langchain-openai
